@@ -111,9 +111,9 @@ class SmsSDK
 
 
 $SmsSDK = new SmsSDK();
-$phone = 15226810495;
+$phone = 152268xxxxx;
 $sms_signature = '张竣升测试';
-$sms_code = 'SMS_77175036';
+$sms_code = 'SMS_7717xxx';
 $array = array('name' => '张竣升','code'=>6661);
 $out_id = '';
 $res = $SmsSDK->send($phone,$sms_signature,$sms_code,$array,$out_id = '');
