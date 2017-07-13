@@ -21,7 +21,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Dysmsapi\\Request\\V20170525": "Dysmsapi/Request/V20170525/"
+            "Dysmsapi\\Request\\V20170525\\": "Dysmsapi/Request/V20170525/"
         }
     }
 }
