@@ -17,7 +17,7 @@
  * specific language governing permissions and limitations
  * under the License.
  */
-namespace Dysmsapi\Request\V20170525;
+namespace alidayu\Request\Dysmsapi\V20170525;
 
 use Aliyun\Core\RpcAcsRequest;// sscs update
 class QueryInterSmsIsoInfoRequest extends RpcAcsRequest
