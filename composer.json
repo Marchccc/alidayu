@@ -1,0 +1,27 @@
+{
+    "name": "sscs/alidayu",
+    "description": "阿里大鱼短信操作类封装",
+    "keywords": [
+        "阿里短信",
+        "alidayu",
+        "阿里大鱼"
+    ],
+    "license": "MIT",
+    "homepage": "https://help.aliyun.com/product/44282.html?spm=5176.doc55288.3.1.t7Etl9",
+    "authors": [
+        {
+            "name": "sscs",
+            "email": "laosql@163.com",
+            "homepage": "http://rockjun.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.5.9"
+    },
+    "autoload": {
+        "psr-4": {
+            "Dysmsapi\\Request\\V20170525": "Dysmsapi/Request/V20170525/"
+        }
+    }
+}
